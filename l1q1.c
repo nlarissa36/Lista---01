@@ -18,9 +18,5 @@ int main(){
     x = (3 * 9 * (3 + (9 * 3 / (3))));
     printf("\nO valor de x agora é: %d\n",x);*/
 
-
-
-
-
     return 0;
 }
